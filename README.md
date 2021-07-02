@@ -2,13 +2,13 @@ Shrnutí:
 
 Použité znalosti:
 --------------------- 
-OOP (uvědomuji si, že byla ukázána pouze malá část, ale mohu dodat později)
-Try&Catch
-Array (ať už jednoduché string tak i s obrázky)
-Práce se soubory (Zápis a výpis)
-Cykly, switch, podmínky
-Práce se samotným oknem a nástroji
-Využití knihoven a následnými funkcemi
+1) OOP (uvědomuji si, že byla ukázána pouze malá část, ale mohu dodat později)
+2) Try&Catch
+3) Array (ať už jednoduché string tak i s obrázky)
+4) Práce se soubory (Zápis a výpis)
+5) Cykly, switch, podmínky
+6) Práce se samotným oknem a nástroji
+7) Využití knihoven a následnými funkcemi
 
 Osobní vyjádření k chybám
 -------------------------
