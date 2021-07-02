@@ -8,7 +8,7 @@ Použité znalosti:
 4) Práce se soubory (Zápis a výpis)
 5) Cykly, switch, podmínky
 6) Práce se samotným oknem a nástroji
-7) Využití knihoven a následnými funkcemi
+7) Využití knihoven s následnými funkcemi
 
 Osobní vyjádření k chybám
 -------------------------
